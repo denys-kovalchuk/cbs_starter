@@ -1,0 +1,8 @@
+art==5.8
+cinemagoer==2022.12.27
+colorama==0.4.6
+greenlet==2.0.1
+lxml==4.9.2
+pyjokes==0.6.0
+SQLAlchemy==1.4.46
+tqdm==4.64.1
